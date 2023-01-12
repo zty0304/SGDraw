@@ -4,6 +4,8 @@ Our paper is publicly available on arXiv: [SGDraw: Scene Graph Drawing interface
 
 ***Functions***
 
+>**Adding.** When the user right-clicks on the canvas, an object will be created automatically. If double right click on an object node, an attribute node will be added to the canvas. If right click on two object nodes in order, a relationship node will be added.
+
 >**Removing.** The design of the removing function is based on the concept of tree construction, and the removing operation is implemented with the commonly used backspace key. Users are allowed to select any connection line for deletion, so as to divide the whole tree structure into several subtrees. Users can also select a node to delete, both the selected node and its subtrees will be deleted at the same time.
 
 >**Cloning.** The design of the cloning function is still based on the tree structure. When users select a node, its subtree will also be selected and copied, so as to ensure that the attributes and relationships corresponding to the object can also be copied. The function keys are designed as "Ctrl", "C", and "V". "Ctrl + C" to realize the copy function, and "Ctrl + V" to realize the paste function. This is consistent with people's usual habits, so it will not bring operation trouble to users.
