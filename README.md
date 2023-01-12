@@ -16,4 +16,4 @@ Our paper is publicly available on arXiv: [SGDraw: Scene Graph Drawing interface
 
 >**Dragging.** We provide users with a tree layout to display the scene graphs hierarchically on the interface. Users are allowed to modify the default layout by dragging nodes or edges.
 
-
+>**Saving and Loading.** The result will be saved both in JSON and SVG formats.(In this code version, we change the JSON format to txt for our following research. If you want to use JSON format, go.js provides a very simple way to get it.)
