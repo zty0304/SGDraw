@@ -1,6 +1,8 @@
 # SGDraw
 SGDraw: Scene Graph Drawing interface
 
+Our introductory video is [here](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)
+
 >Functions
 
 **Removing.** The design of the removing function is based on the concept of tree construction, and the removing operation is implemented with the commonly used backspace key. Users are allowed to select any connection line for deletion, so as to divide the whole tree structure into several subtrees. Users can also select a node to delete, both the selected node and its subtrees will be deleted at the same time.
