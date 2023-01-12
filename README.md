@@ -1,5 +1,6 @@
 # SGDraw
-our paper: [SGDraw: Scene Graph Drawing interface](https://arxiv.org/abs/2211.16697)
+
+Our paper is publicly available on arXiv: [SGDraw: Scene Graph Drawing interface](https://arxiv.org/abs/2211.16697)
 
 Our introductory video is [here](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)
 
