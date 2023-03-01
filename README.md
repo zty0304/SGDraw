@@ -1,4 +1,4 @@
-# SGDraw
+# SGDraw: Scene Graph drawing interface using Object-Oriented representation
 
 >**Our introductory video is [here.](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)**
 
