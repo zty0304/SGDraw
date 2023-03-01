@@ -19,7 +19,11 @@
 ***Saving and Loading.*** The result will be saved both in JSON and SVG formats.(In this code version, we change the JSON format to txt for our following research. If you want to use JSON format, go.js provides a very simple way to get it.)
 
 >**Overview of our interface**
+
 ![Image text](img/ui_revised.png)
+
 >**Workflow**
+
+![Image text](img/workflow_revised.png)
 
 >**Using for follow-up research**
