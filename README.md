@@ -2,6 +2,18 @@
 
 >**Our introductory video is [here.](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)**
 
+>**Overview of our interface**
+
+***Workflow of the proposed interface.*** (A) With a task image inputted to the SGDraw, the user starts (B) adding objects, and then they can (C) add attributes or (D) relationships. After that, they can choose to (E) use the auxiliary operations (like cloning, as shown in the figure) to change the structure of the graph. Repeat these steps until (F) obtains the desired scene graph.
+
+![Image text](img/ui_revised.png)
+
+>**Workflow**
+
+***Screenshot of the SGDraw interface.*** On the left is the input image display area, and on the right is the scene graph operation and real-time generation area. Meanwhile, on the right side of the interactive interface, we provide some common attributes and relationships for users to choose and reference.
+
+![Image text](img/workflow_revised.png)
+
 >**Functions**
 
 ***Adding.*** When the user right-clicks on the canvas, an object will be created automatically. If double right click on an object node, an attribute node will be added to the canvas. If right click on two object nodes in order, a relationship node will be added.
@@ -18,17 +30,6 @@
 
 ***Saving and Loading.*** The result will be saved both in JSON and SVG formats.(In this code version, we change the JSON format to txt for our following research. If you want to use JSON format, go.js provides a very simple way to get it.)
 
->**Overview of our interface**
-
-***Workflow of the proposed interface.*** (A) With a task image inputted to the SGDraw, the user starts (B) adding objects, and then they can (C) add attributes or (D) relationships. After that, they can choose to (E) use the auxiliary operations (like cloning, as shown in the figure) to change the structure of the graph. Repeat these steps until (F) obtains the desired scene graph.
-
-![Image text](img/ui_revised.png)
-
->**Workflow**
-
-***Screenshot of the SGDraw interface.*** On the left is the input image display area, and on the right is the scene graph operation and real-time generation area. Meanwhile, on the right side of the interactive interface, we provide some common attributes and relationships for users to choose and reference.
-
-![Image text](img/workflow_revised.png)
 
 >**Using for follow-up research**
 
