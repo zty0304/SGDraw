@@ -27,3 +27,5 @@
 ![Image text](img/workflow_revised.png)
 
 >**Using for follow-up research**
+
+![Image text](img/sg2im_revised.png)
