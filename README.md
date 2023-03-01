@@ -1,6 +1,6 @@
 # SGDraw
 
-Our introductory video is [here.](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)
+>**Our introductory video is [here.](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)**
 
 >**Functions**
 
