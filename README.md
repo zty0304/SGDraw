@@ -1,7 +1,5 @@
 # SGDraw: Scene Graph drawing interface using Object-Oriented representation
 
->**Our introductory video is [here.](https://www.youtube.com/watch?v=acy0SNLfahg&lc=UgyolK17UbvOUGuEFE94AaABAg)**
-
 >**Overview of our interface**
 
 ***Workflow of the proposed interface.*** (A) With a task image inputted to the SGDraw, the user starts (B) adding objects, and then they can (C) add attributes or (D) relationships. After that, they can choose to (E) use the auxiliary operations (like cloning, as shown in the figure) to change the structure of the graph. Repeat these steps until (F) obtains the desired scene graph.
